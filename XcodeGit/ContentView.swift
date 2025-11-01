@@ -14,7 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, world!")
-            Text("こんにちは")
+            Text("結果にコミット！")
         }
         .padding()
     }
